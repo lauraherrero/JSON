@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Lidl",
+    "address": "Calle Fuencarral, 101",
+    "geolocalitation": {
+      "longitud": "40.28.39",
+      "latitude": "20.45.65"
+    },
+    "offers": [
+      {
+        "offerName": "3 x 2 en productos seleccionados",
+        "period": {
+          "startDate": "28/04/2022",
+          "endDate": "31/04/2022"
+        },
+        "description": "Paga dos productos y te llevas tres de la misma gama."
+      },
+      {
+        "offerName": "10% de descuento en productos seleccionados",
+        "period": {
+          "startDate": "28/04/2022",
+          "endDate": "31/04/2022"
+        },
+        "description": "Ahorra un 10% del precio del producto seleccionado."
+      },
+      {
+        "offerName": "30% de descuento en productos seleccionados",
+        "period": {
+          "startDate": "01/05/2022",
+          "endDate": "05/05/2022"
+        },
+        "description": "Ahorra un 30% del precio del producto seleccionado."
+      },
+      {
+        "offerName": "Productos a 1€!!",
+        "period": {
+          "startDate": "08/04/2022",
+          "endDate": "10/04/2022"
+        },
+        "description": "Llévate por solo 1€ tus productos favoritos."
+      }
+    ],
+    "products": [
+      {
+        "name": "Lechuga iceberg",
+        "brand": "El huerto",
+        "amount": "3",
+        "product with discount": false,
+        "unit of measure": "units",
+        "price": "1,50",
+        "money": "€",
+        "category": "vegetables",
+        "is acquired": true,
+        "ussuallyBought": false
+      },
+      {
+        "name": "Huevos frescos camperos",
+        "brand": "Huevos Velasco",
+        "amount": "6",
+        "product with discount": false,
+        "unit of measure": "units",
+        "price": "2,15",
+        "money": "€",
+        "category": "eggs",
+        "is acquired": true,
+        "ussuallyBought": true
+      },
+      {
+        "name": "Mozzarella",
+        "brand": "Mozzy",
+        "amount": "3",
+        "product with discount": true,
+        "unit of measure": "units",
+        "price": "0,50",
+        "money": "€",
+        "category": "cheese",
+        "is acquired": false,
+        "ussuallyBought": true
+      },
+      {
+        "name": "Jabón de manos",
+        "brand": "Fairy",
+        "amount": "2",
+        "product with discount": true,
+        "unit of measure": "units",
+        "price": "2,50",
+        "money": "€",
+        "category": "clean",
+        "is acquired": false,
+        "ussuallyBought": true
+      }
+    ]
+  },
+  {
+    "name": "Mercadona",
+    "address": "Calle Bravo Murillo, 4",
+    "geolocalitation": {
+      "longitud": "62.09.33",
+      "latitude": "37.29.04"
+    },
+    "offers": [
+      {
+        "offerName": "30% de descuento en productos seleccionados",
+        "period": {
+          "startDate": "01/04/2022",
+          "endDate": "31/04/2022"
+        },
+        "description": "Ahorra un 30% del precio del producto seleccionado."
+      }
+    ],
+    "products": [
+      {
+        "name": "Nachos",
+        "brand": "El mexicano",
+        "amount": "1",
+        "product with discount": false,
+        "unit of measure": "units",
+        "price": "1,50",
+        "money": "€",
+        "category": "snacks",
+        "is acquired": true,
+        "ussuallyBought": false
+      },
+      {
+        "name": "Hummus",
+        "brand": "Hacendado",
+        "amount": "2",
+        "product with discount": true,
+        "unit of measure": "units",
+        "price": "1,20",
+        "money": "€",
+        "category": "snacks",
+        "is acquired": false,
+        "ussuallyBought": true
+      },
+      {
+        "name": "Yogur proteico",
+        "brand": "Hacendado",
+        "amount": "4",
+        "product with discount": true,
+        "unit of measure": "units",
+        "price": "0,85",
+        "money": "€",
+        "category": "yogurth",
+        "is acquired": false,
+        "ussuallyBought": false
+      }
+    ]
+  },
+  {
+    "name": "Aldi",
+    "address": "Calle Fuencarral, 132",
+    "geolocalitation": {
+      "longitud": "28.13.22",
+      "latitude": "48.32.97"
+    },
+    "offers": [
+      {
+        "offerName": "50% de descuento en productos seleccionados",
+        "period": {
+          "startDate": "01/04/2022",
+          "endDate": "31/04/2022"
+        },
+        "description": "Ahorra un 50% del precio del producto seleccionado."
+      },
+      {
+        "offerName": "2x1",
+        "period": {
+          "startDate": "08/04/2022",
+          "endDate": "22/04/2022"
+        },
+        "description": "Llévate el producto de menor importe totalmente gratis."
+      }
+    ],
+    "products": [
+      {
+        "name": "Aceitunas negras",
+        "brand": "El agricultor",
+        "amount": "3",
+        "product with discount": false,
+        "unit of measure": "units",
+        "price": "0,80",
+        "money": "€",
+        "category": "snacks",
+        "is acquired": true,
+        "ussuallyBought": true
+      },
+      {
+        "name": "Risotto",
+        "brand": "Campolargo",
+        "amount": "2",
+        "product with discount": false,
+        "unit of measure": "units",
+        "price": "1,20",
+        "money": "€",
+        "category": "rice",
+        "is acquired": false,
+        "ussuallyBought": false
+      },
+      {
+        "name": "Pavo finas lonchas",
+        "brand": "Dulan",
+        "amount": "2",
+        "product with discount": true,
+        "unit of measure": "units",
+        "price": "1,85",
+        "money": "€",
+        "category": "meat",
+        "is acquired": false,
+        "ussuallyBought": true
+      }
+    ]
+  }
+]

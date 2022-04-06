@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <root>
+      <name>Aldi</name>
+      <address>Calle Fuencarral, 132</address>
+      <geolocalitation>
+        <longitude>28.13.22</longitude>
+        <latitude>48.32.97</latitude>
+      </geolocalitation>
+      <offers>
+        <element>
+          <offerName>50% de descuento en productos seleccionados</offerName>
+          <period>
+            <startDate>01/04/2022</startDate>
+            <endDate>31/04/2022</endDate>
+          </period>
+          <description>Ahorra un 50% del precio del producto seleccionado.</description>
+        </element>
+         <element>
+          <offerName>2x1</offerName>
+          <period>
+            <startDate>08/04/2022</startDate>
+            <endDate>22/04/2022</endDate>
+          </period>
+          <description>Llévate el producto de menor importe totalmente gratis.</description>
+        </element>
+      </offers>
+      <products>
+        <element>
+          <name>Aceitunas negras</name>
+          <brand>El agricultor</brand>
+          <amount>3</amount>
+          <productWithDiscount>false</productWithDiscount>
+          <unitOfMeasure>units</unitOfMeasure>
+          <price>0,80</price>
+          <money>€</money>
+          <category>snacks</category>
+          <isAcquared>true</isAcquared>
+          <ussuallyBought>true</ussuallyBought>
+        </element>
+        <element>
+          <name>Risotto</name>
+          <brand>Campolargo</brand>
+          <amount>2</amount>
+          <productWithDiscount>false</productWithDiscount>
+          <unitOfMeasure>units</unitOfMeasure>
+          <price>1,20</price>
+          <money>€</money>
+          <category>rice</category>
+          <isAcquared>false</isAcquared>
+          <ussuallyBought>false</ussuallyBought>
+        </element>
+        <element>
+          <name>Pavo finas lonchas</name>
+          <brand>Dulan</brand>
+          <amount>2</amount>
+          <productWithDiscount>true</productWithDiscount>
+          <unitOfMeasure>units</unitOfMeasure>
+          <price>1,85</price>
+          <money>€</money>
+          <category>meat</category>
+          <isAcquared>false</isAcquared>
+          <ussuallyBought>true</ussuallyBought>
+        </element>
+      </products>
+    </root>
